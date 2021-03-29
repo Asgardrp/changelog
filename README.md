@@ -6,8 +6,14 @@
 - Bronie Epickie do wytworzenia z bossów
 ### Zmodyfikowano
 - AkiLoader -> Patcher AsgardRP
+- Od teraz gdy postawimy Kamień strażniczy nie można niszczyć nic oprócz skrzynek,drzwi, przedmiotów etc. (testy)
+- Zmniejszono zurzycie staminy w obrębie kamienia strażniczego
+- Od teraz widzimy jaki ma zasięg kamień strażniczy
+- Każda osoba wpisana w kamień strażniczy może go włączać/wyłączać
 ### Zaktualizowano
 ### Usunięto
+- Wszystkie przedmioty u npc
+- 
 ### Naprawiono
 - Mapa serwera
 ### Bugi
@@ -21,6 +27,10 @@
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
+- Wywaliło całą mape 
+- Kazdemu pokazuje mapę
+- Każdemu pokazuje celownik
+- Każdemu pokazuje paski życia
 ### Bugi
 - Cebula
 - Mapa serwera
