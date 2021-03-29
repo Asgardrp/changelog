@@ -1,5 +1,18 @@
 # AsgardRP
 
+## [0.0.4] - 2021-03-29
+### Dodano
+- Nowe tekstury peleryn
+- Więcej skilii
+### Zmodyfikowano
+- Więcej skilli spolszczono
+### Zaktualizowano
+### Usunięto
+### Naprawiono
+- Mapa serwera
+### Bugi
+- Cebula
+
 ## [0.0.3] - 2021-03-29
 ### Dodano
 - Cebula
@@ -12,6 +25,9 @@
 ### Usunięto
 ### Bugi
 - Wywaliło całą mape 
+- Kazdemu pokazuje mapę
+- Każdemu pokazuje celownik
+- Każdemu pokazuje paski życia
 
 ## [0.0.2] - 2021-03-28
 ### Usunięto
@@ -42,8 +58,8 @@
 - Respawn Bosów co 31dni ingame
 - ZupaHUHU
 ### Bugi
-- MieczTyra / dodać efekt uderzenia
-- WloczniaBaldura / Dodac efekt uderzenia 
-- MlotThora / Dodac Efekt uderzenia
-- MieczMrozu / Dodac Efekt Uderzenia
-- Fermenter / nie działa po najechaniu myszką
+- MieczTyra
+- WloczniaBaldura
+- MlotThora
+- MieczMrozu
+- Fermenter
