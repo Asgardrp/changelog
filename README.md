@@ -5,7 +5,7 @@
 - Ark 4
 - Bronie Epickie do wytworzenia z bossów
 ### Zmodyfikowano
-- AkiLoader 
+- AkiLoader -> Patcher AsgardRP
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
