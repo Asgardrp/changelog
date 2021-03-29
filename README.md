@@ -19,6 +19,7 @@
 ### Usunięto
 - Wszystkie przedmioty u npc
 - GatheringSkill
+- Drop rud z potworów
 ### Naprawiono
 - Mapa serwera
 ### Bugi
