@@ -3,7 +3,9 @@
 ## [0.0.5] - 2021-03-29
 ### Dodano
 - Ark 4
+- Bronie Epickie do wytworzenia z bossów
 ### Zmodyfikowano
+- AkiLoader 
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
