@@ -3,13 +3,13 @@
 ## [0.0.3] - 2021-03-29
 ### Dodano
 - Cebula
-### Usunięto
 ### Zmodyfikowano
 - Cały system lootu magicznego
 - Aktualizacja serwera do 0.148.7
 - Aktualizacja paczki do najnowszej wersji serwera
 ### Zaktualizowano
 - BetterContinents
+### Usunięto
 ### Bugi
 
 ## [0.0.2] - 2021-03-28
