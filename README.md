@@ -3,11 +3,14 @@
 ## [0.0.3] - 2021-03-29
 ### Dodano
 - Cebula
+- Aktualizacja serwera do 0.148.7
 
 ### Usunięto
 
 ### Zmodyfikowano
 
+### Zaktualizowano
+- BetterContinents
 
 ### Bugi
 
