@@ -13,8 +13,9 @@
 - Od teraz widzimy jaki ma zasięg kamień strażniczy
 - Każda osoba wpisana w kamień strażniczy może go włączać/wyłączać
 ### Zaktualizowano
--CombatOverHaul
--Dodatkowy pasek staminy
+- CombatOverHaul
+- Dodatkowy pasek staminy
+- AntyCheat
 ### Usunięto
 - Wszystkie przedmioty u npc
 - GatheringSkill
