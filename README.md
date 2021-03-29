@@ -2,8 +2,14 @@
 
 ## [0.0.3] - 2021-03-29
 ### Dodano
-- Cebule
+- Cebula
 
+### Usunięto
+
+### Zmodyfikowano
+
+
+### Bugi
 
 ## [0.0.2] - 2021-03-28
 ### Usunięto
