@@ -4,6 +4,8 @@
 ### Dodano
 - Ark 4
 - Bronie Epickie do wytworzenia z bossów
+- Endgame Bronie z bossów
+- Więcej umiejętności pasywnych ( w trakcie polonizacji ) / Crafting / Łowiectwo / Żegluga/ Witalność/ Siła
 ### Zmodyfikowano
 - AkiLoader -> Patcher AsgardRP
 - Od teraz gdy postawimy Kamień strażniczy nie można niszczyć nic oprócz skrzynek,drzwi, przedmiotów etc. (testy)
@@ -11,9 +13,11 @@
 - Od teraz widzimy jaki ma zasięg kamień strażniczy
 - Każda osoba wpisana w kamień strażniczy może go włączać/wyłączać
 ### Zaktualizowano
+-CombatOverHaul
+-Dodatkowy pasek staminy
 ### Usunięto
 - Wszystkie przedmioty u npc
-- 
+- GatheringSkill
 ### Naprawiono
 - Mapa serwera
 ### Bugi
@@ -23,7 +27,6 @@
 - Nowe tekstury peleryn
 - Więcej skilii
 ### Zmodyfikowano
-- Więcej skilli spolszczono
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
