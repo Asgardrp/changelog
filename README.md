@@ -1,5 +1,15 @@
 # AsgardRP
 
+## [0.0.5] - 2021-03-29
+### Dodano
+- Ark 4
+### Zmodyfikowano
+### Zaktualizowano
+### Usunięto
+### Naprawiono
+- Mapa serwera
+### Bugi
+
 ## [0.0.4] - 2021-03-29
 ### Dodano
 - Nowe tekstury peleryn
@@ -9,9 +19,9 @@
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
-- Mapa serwera
 ### Bugi
 - Cebula
+- Mapa serwera
 
 ## [0.0.3] - 2021-03-29
 ### Dodano
