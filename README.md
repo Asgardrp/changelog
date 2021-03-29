@@ -11,6 +11,7 @@
 - BetterContinents
 ### Usunięto
 ### Bugi
+- Wywaliło całą mape 
 
 ## [0.0.2] - 2021-03-28
 ### Usunięto
