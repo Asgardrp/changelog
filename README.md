@@ -7,7 +7,7 @@
 - Endgame Bronie z bossów
 - Więcej umiejętności pasywnych ( w trakcie polonizacji ) / Crafting / Łowiectwo / Żegluga/ Witalność/ Siła
 ### Zmodyfikowano
-- AkiLoader -> Patcher AsgardRP
+- AkiLoader -> Patcher AsgardRP (https://www.mediafire.com/file/9j3jz1gk7u5uk4u/Patcher_AsgardRP.rar/file)
 - Od teraz gdy postawimy Kamień strażniczy nie można niszczyć nic oprócz skrzynek,drzwi, przedmiotów etc. (testy)
 - Zmniejszono zurzycie staminy w obrębie kamienia strażniczego
 - Od teraz widzimy jaki ma zasięg kamień strażniczy
@@ -23,6 +23,7 @@
 ### Naprawiono
 - Mapa serwera
 ### Bugi
+- Kiełbasa z dzika
 
 ## [0.0.4] - 2021-03-29
 ### Dodano
