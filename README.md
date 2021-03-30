@@ -6,6 +6,7 @@
 - Mikstura Jedności
 - Wymagane surowce do naprawy (test x0.1)
 ### Zmodyfikowano
+- System działania potworów
 ### Zaktualizowano
 ### Usunięto
 ### Naprawiono
