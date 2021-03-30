@@ -4,11 +4,12 @@
 ### Dodano
 - Item Ocalały Ark3
 - Mikstura Jedności
-- Wymagane surowce do naprawy (test x0.1)
+- Wymagane surowce do naprawy x0.2
 ### Zmodyfikowano
 - System działania potworów
 ### Zaktualizowano
 ### Usunięto
+- Handlarz
 ### Naprawiono
 ### Bugi
 
