@@ -4,7 +4,7 @@
 ### Dodano
 - Item Ocalały Ark3
 - Mikstura Jedności
-- Wymagane surowce do naprawy
+- Wymagane surowce do naprawy (test x0.1)
 ### Zmodyfikowano
 ### Zaktualizowano
 ### Usunięto
