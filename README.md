@@ -11,8 +11,10 @@
 ### Usunięto
 - Handlarz
 ### Naprawiono
+- Kiełbasa z dzika
 - Ikona Miecz Mrozu
 - Ikona Włóczna Baldura
+- 
 ### Bugi
 
 ## [0.0.5] - 2021-03-29
