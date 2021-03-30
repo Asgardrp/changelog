@@ -7,6 +7,7 @@
 - Wymagane surowce do naprawy x0.2
 ### Zmodyfikowano
 - System działania potworów
+- Radius odkrywania mapy
 ### Zaktualizowano
 ### Usunięto
 - Handlarz
