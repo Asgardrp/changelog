@@ -2,6 +2,9 @@
 
 ## [0.0.6] - 2021-03-30
 ### Dodano
+- Item Ocalały Ark3
+- Mikstura Jedności
+- Wymagane surowce do naprawy
 ### Zmodyfikowano
 ### Zaktualizowano
 ### Usunięto
