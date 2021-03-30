@@ -1,5 +1,13 @@
 # AsgardRP
 
+## [0.0.6] - 2021-03-30
+### Dodano
+### Zmodyfikowano
+### Zaktualizowano
+### Usunięto
+### Naprawiono
+### Bugi
+
 ## [0.0.5] - 2021-03-29
 ### Dodano
 - Ark 4
