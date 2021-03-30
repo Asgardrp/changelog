@@ -11,6 +11,8 @@
 ### Usunięto
 - Handlarz
 ### Naprawiono
+- Ikona Miecz Mrozu
+- Ikona Włóczna Baldura
 ### Bugi
 
 ## [0.0.5] - 2021-03-29
