@@ -6,6 +6,8 @@
 - Możliwość sprawdzania co gracz zabiera ze skrzynki ( gdy otwieramy skrzynke otwartą przez innego gracza, NIE MOŻEMY NIC RUSZAĆ )
 ### Naprawiono
 - Uderzenie z miecza Tyra 360angle -> 180angle
+### Bugi
+- Jeżeli wyjdziemy z gry kombinacją klawisz ALT+F4 nasza postać nie zapiszę sie na serwerze
 
 ## [0.0.6] - 2021-03-30
 ### Dodano
