@@ -5,6 +5,7 @@
 - Item Ocalały Ark3
 - Mikstura Jedności
 - Wymagane surowce do naprawy x0.2
+- Możliwość zresetowania dungeonów przez administrację
 ### Zmodyfikowano
 - System działania potworów
 - Radius odkrywania mapy
