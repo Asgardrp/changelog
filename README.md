@@ -1,5 +1,12 @@
 # AsgardRP
 
+## [0.0.8] - 2021-03-31
+### Dodano
+- Skill Gathering
+- Broń endgame Chaotic Hand
+### Zmodyfikowano
+- Tabela lootu
+
 ## [0.0.7] - 2021-03-31
 ### Dodano
 - Możliwość resetowania dungeonów przez administrację
