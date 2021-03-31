@@ -4,6 +4,8 @@
 ### Dodano
 - Możliwość resetowania dungeonów przez administrację
 - Możliwość sprawdzania co gracz zabiera ze skrzynki ( gdy otwieramy skrzynke otwartą przez innego gracza, NIE MOŻEMY NIC RUSZAĆ )
+### Naprawiono
+- Uderzenie z miecza Tyra 360angle -> 180angle
 
 ## [0.0.6] - 2021-03-30
 ### Dodano
