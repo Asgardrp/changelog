@@ -1,11 +1,15 @@
 # AsgardRP
 
+## [0.0.7] - 2021-03-31
+### Dodano
+- Możliwość resetowania dungeonów przez administrację
+- Możliwość sprawdzania co gracz zabiera ze skrzynki ( gdy otwieramy skrzynke otwartą przez innego gracza, NIE MOŻEMY NIC RUSZAĆ )
+
 ## [0.0.6] - 2021-03-30
 ### Dodano
 - Item Ocalały Ark3
 - Mikstura Jedności
 - Wymagane surowce do naprawy x0.2
-- Możliwość zresetowania dungeonów przez administrację
 ### Zmodyfikowano
 - System działania potworów
 - Radius odkrywania mapy
