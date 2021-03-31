@@ -4,6 +4,8 @@
 ### Dodano
 - Możliwość resetowania dungeonów przez administrację
 - Możliwość sprawdzania co gracz zabiera ze skrzynki ( gdy otwieramy skrzynke otwartą przez innego gracza, NIE MOŻEMY NIC RUSZAĆ )
+### Zaktualizowano
+- Przeniesiono wszystkie postacie na nowy serwer
 ### Naprawiono
 - Uderzenie z miecza Tyra 360angle -> 180angle
 ### Bugi
